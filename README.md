@@ -1,3 +1,7 @@
+# Teammates:
+Abhaysinh Sunil Patil (2018csb1063)
+Gurpreet Singh (2018csb1092)
+
 # Requirements  
 `freegames` module is necessary to run this program  
 Run `pip install freegames` to install the same
